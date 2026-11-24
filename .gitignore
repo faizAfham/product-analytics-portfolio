@@ -1,0 +1,4 @@
+# local only: these live in their own repos, or are Drive notes
+0*.pdf
+DRIVE_LINKS.md
+.DS_Store
