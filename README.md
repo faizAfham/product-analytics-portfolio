@@ -11,6 +11,6 @@ Case studies, PRDs and teardowns. Click a PDF to read it in the browser.
 | 5 | Myntra product teardown (team) | Sold-out size recovery flow, metric tree, A/B test plan | [PDF](05_Myntra_Product_Teardown.pdf) | |
 | 6 | Lotline marketplace PRD | B2B deadstock apparel marketplace, metric tree, RICE | [PDF](06_Lotline_Marketplace_PRD.pdf) | |
 | 7 | Nifty 50 carbon audit | SEBI BRSR filings, 39% unit errors found | [PDF](07_Nifty50_Carbon_Audit.pdf) | [repo](https://github.com/faizAfham/nifty50-carbon-audit) |
-| 8 | RFM customer segmentation | 541K e-commerce transactions, Power BI | | [repo](https://github.com/faizAfham/Customer-Segmentation-Using-RFM-Analysis-E-Commerce) |
+| 8 | Google Pay teardown: how GPay lost the UPI lead to PhonePe | 77 months of NPCI data, north-star metric, 5 options scored with RICE + weighted scoring, plan | [PDF](08_GPay_UPI_Teardown.pdf) | |
+| 9 | RFM customer segmentation | 541K e-commerce transactions, Power BI | | [repo](https://github.com/faizAfham/Customer-Segmentation-Using-RFM-Analysis-E-Commerce) |
 
-Coming soon: Google Pay product teardown (how GPay lost the UPI lead to PhonePe).
